@@ -39,5 +39,5 @@
 //     members: ['Shirin','Atay','Aijan'],
 // }
 
-// Я не понимаю как это сделать. На все мои варианты вылетает куча ошибок
-
+// team.members = ['Shirin','Atay','Aijan', 'Igor']
+// console.log(team);
